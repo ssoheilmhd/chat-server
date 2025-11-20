@@ -51,5 +51,5 @@ Key configurations include:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ssoheilmhd/chat-server.git
    cd mattermost-selfhosted
